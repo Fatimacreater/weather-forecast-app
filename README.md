@@ -3,6 +3,11 @@
 A modern and responsive Weather App built with **HTML**, **CSS**, and **JavaScript** that provides real-time weather information for any city using the **wttr.in Weather API**. The application features a clean interface, keyboard support, loading states, and error handling to deliver a smooth user experience.
 
 ---
+# 🌦 Weather Forecast App
+
+🔗 **Live Demo:** https://fatimacreater.github.io/weather-forecast-app/
+
+A responsive Weather App built with HTML, CSS, and JavaScript that fetches real-time weather information using the wttr.in API.
 
 ## ✨ Features
 
