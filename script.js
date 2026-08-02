@@ -3,7 +3,7 @@ let inp = document.querySelector("#city");
 let btn = document.querySelector("#searchBtn");
 let main = document.querySelector("#weather");
 
-btn.addEventListener("click" , data_function(inp,main))
+btn.addEventListener("click", ()=>{ data_function(inp,main)})
 
 let searchBox = document.getElementById("city");
 
